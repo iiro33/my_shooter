@@ -1,0 +1,71 @@
+# game ideas
+- intro screen
+	- navigatable with mouse
+	- music
+	- difficulty selector
+- shooter
+	- player
+		- moves side to side
+		- shoots with space
+		- can activate shield
+		- dodge enemies
+		- grab bonuses
+	- enemy objects
+		- asteroids
+			- spawn randomly move diagonally downwards
+		- ships
+			- shoot back
+		- boss
+			- ???
+	- bonuses
+		- speed bonus
+		- shield
+		- multi shooter
+	- music & sounds
+		- shoot sound
+		- crash sound
+		- game over
+		- bonuses
+	- scores
+		- current score
+		- highscore
+	- additional functionality
+		- pause/unpause
+		- cheats
+		- add bullet blocking cubes
+		- shooting stars
+
+progress
+- day 1
+	- wrote ideas
+	- read on pygame tutorials
+	- created main classes
+	- screen and moving character
+	- added comments
+	- TODO: create random flying creatures, add collisions, add game over --> redo, hit counts
+- day 2
+    - create trump objects
+    - added caption and icon
+    - added points and lives labels
+    - added rotation to trumps
+    - TODO: create shooting enemies, add collisions to those, add shooting and hit sounds
+- day 3
+    - added sounds and music
+    - added flying enemies with collisions
+    - added enemies shooting with collisions
+    - added points posting
+    - TODO: add flight pattern to roger stones, add point logging to a file, add power-ups
+- day 4
+    - added point logging
+    - added flight patterns
+    - added background
+    - optimized images
+    - added high score tracking and text
+    - TODO: add power-ups, add boss fight
+- day 5
+    - added bonus and multi shoot
+    - added boss fight
+    - added sounds and images
+    - TODO: intro screen, game over
+- day 6
+    -
